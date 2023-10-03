@@ -1,0 +1,12 @@
+.edit-task {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 50rem;
+}
+
+.edit-text {
+  height: 50%;
+  font-size: 2rem;
+  text-align: center;
+}

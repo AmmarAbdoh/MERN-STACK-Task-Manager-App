@@ -1,0 +1,29 @@
+.tasks-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.task-input {
+  width: 50rem;
+  height: 4rem;
+  font-size: 2rem;
+  text-align: center;
+  border-radius: 7px;
+}
+
+.add-button {
+  width: 9rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  background-color: #1d3c45;
+  color: white;
+  margin: 2rem;
+}
+
+.add-button:hover {
+  cursor: pointer;
+  background-color: #306474;
+}

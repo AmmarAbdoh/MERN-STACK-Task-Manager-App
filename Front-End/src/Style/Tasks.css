@@ -1,0 +1,11 @@
+.tasks-div {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.buttons {
+  background-color: white;
+  height: 100%;
+}

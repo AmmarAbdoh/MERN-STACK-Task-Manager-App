@@ -1,0 +1,17 @@
+body,
+html {
+  background-color: #fff1e1;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #1d3c45;
+  color: white;
+}
