@@ -1,0 +1,46 @@
+# React-Node-Task-Manager-App
+A full-stack web application built with React for the frontend and Node.js/Express.js for the backend. It allows users to create, edit, and delete tasks, as well as mark them as completed. done using the MERN (MongoDB, Express.js, React, Node.js) stack, with a focus on simplicity and usability.
+
+
+# React & Node.js Task Manager App
+
+This repository contains a full-stack web application built with React for the frontend and Node.js/Express.js for the backend. It serves as a task manager application that allows users to create, edit, and delete tasks, as well as mark them as completed. This project demonstrates the use of the MERN (MongoDB, Express.js, React, Node.js) stack.
+
+## Getting Started
+
+To run this application locally, follow the steps below using a terminal with bash commands:
+
+### Frontend
+
+# Navigate to the frontend directory
+
+   ```bash
+   cd Front-End
+   ```
+
+# Install frontend dependencies
+  ```bash
+  npm install
+  ```
+
+# Start the React development server
+  ```bash
+  npm start
+  ```
+
+### Backend
+# Open a new terminal window/tab and navigate to the backend directory
+ ```bash
+   cd Front-End
+   ```
+
+# Install backend dependencies
+  ```bash
+  npm install
+  ```
+
+# Start the Node.js/Express.js server
+  ```bash
+  npm start
+  ```
+
