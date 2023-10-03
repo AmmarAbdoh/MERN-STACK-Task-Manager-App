@@ -25,7 +25,7 @@ To run this application locally, follow the steps below using a terminal with ba
 
 ### Backend
 # Open a new terminal window/tab and navigate to the backend directory
- ```bash
+    ```bash
    cd Front-End
    ```
 
@@ -38,4 +38,9 @@ To run this application locally, follow the steps below using a terminal with ba
   ```bash
   npm start
   ```
+
+![1](https://github.com/AmmarAbdoh/React-Node-Task-Manager-App/assets/90091361/a7ef2293-2aef-4c95-87eb-5e6e02f5dbee)
+
+![2](https://github.com/AmmarAbdoh/React-Node-Task-Manager-App/assets/90091361/c5738e42-7dd2-4f1c-b4b7-cbe3ccd50dbf)
+
 
