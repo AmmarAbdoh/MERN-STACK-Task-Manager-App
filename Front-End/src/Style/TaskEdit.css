@@ -10,3 +10,8 @@
   font-size: 2rem;
   text-align: center;
 }
+
+.edit-buttons {
+  display: flex;
+  align-items: center;
+}

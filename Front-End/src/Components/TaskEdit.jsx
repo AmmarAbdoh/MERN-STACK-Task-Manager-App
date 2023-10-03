@@ -35,7 +35,7 @@ const TaskEdit = ({ handleBack, id, onEdit, name }) => {
         value={editedTaskName}
         onChange={(e) => setEditedTaskName(e.target.value)}
       />
-      <div>
+      <div className="edit-buttons">
         <input
           type="button"
           value="Edit"

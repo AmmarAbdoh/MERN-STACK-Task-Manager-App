@@ -28,7 +28,7 @@ const TaskInput = ({ addTask }) => {
   };
 
   return (
-    <div className="tasks-div">
+    <div className="tasks-edit-div">
       <input
         type="text"
         placeholder="Enter task name"
