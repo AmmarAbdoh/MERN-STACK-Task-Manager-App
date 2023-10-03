@@ -20,13 +20,13 @@ To run this application locally, follow the steps below using a terminal with ba
 
 # Start the React development server
   ```bash
-  npm start
+  npm run dev
   ```
 
 ### Backend
 # Open a new terminal window/tab and navigate to the backend directory
-    ```bash
-   cd Front-End
+  ```bash
+   cd Back-End
    ```
 
 # Install backend dependencies
