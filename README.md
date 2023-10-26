@@ -1,6 +1,10 @@
 # React-Node-Task-Manager-App
 A full-stack web application built with React for the frontend and Node.js/Express.js for the backend. It allows users to create, edit, and delete tasks, as well as mark them as completed. done using the MERN (MongoDB, Express.js, React, Node.js) stack, with a focus on simplicity and usability.
 
+## Important Note
+In order to run this app, you should create a file with the name .env in the backend folder and create variables as shown in the picture below (use your own variables such as database and secret key).
+![env](https://github.com/AmmarAbdoh/React-Node-Store-Filter-App/assets/90091361/7a770109-62b2-44e1-9236-7ad0b6ef0794)
+
 ## Getting Started
 
 To run this application locally, follow the steps below using a terminal with bash commands:
